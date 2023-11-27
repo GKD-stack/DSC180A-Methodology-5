@@ -20,6 +20,4 @@ Our quarter 1 project was pre-decided for everyone. Nevertheless, one potential 
 Some other techniques that I would be interested in using in my project are potentially doing more linkage disequilibrium analysis and examining whether the non-random associations between different variants have any insights on complex traits. It would also be interesting to learn more about haplotype mapping and if the combination of the haplotypes or alleles has any significance in gene expression association. In terms of technical techniques, I would like to try some of the packages and techniques that I’ve been using in Python in R. I would also like to use the UC Santa Cruz genome website to extract some relevant information and visualization as well get some more background research for the quarter 2 project. Additionally, I would like to better learn how to integrate LDs into the LocusZoom online interactive software to make the graphs more informative. 
 
 
-5. 
-
 
